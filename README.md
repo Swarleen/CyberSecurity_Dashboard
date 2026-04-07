@@ -9,11 +9,14 @@
 
 ## The Project
 
-This dashboard simulates the kind of analytics capability a Security Operations Centre or Technology Audit team would use to monitor, triage, and report on cybersecurity incidents across an enterprise.
+This dashboard simulates the kind of analytics capability a Security Operations Centre or Technology team would use to monitor, triage, and report on cybersecurity incidents across an enterprise.
 
 The goal was to take raw, unstructured incident data and turn it into something a non-technical executive could act on — identifying where the organisation is most exposed, where response is falling short, and where control investments should go next.
 
-> 🔗 **[Explore the live interactive dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)**
+> 🔗 **[Explore the live interactive dashboard here 🚀](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)**
+
+[![Watch the demo](QAGIF.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
+> Click the image above to open the live dashboard!
 
 ---
 
