@@ -15,7 +15,7 @@ The goal was to take raw, unstructured incident data and turn it into something 
 
 > 🔗 **[Explore the live interactive dashboard here 🚀](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)**
 
-[![Watch the demo](QAGIF.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
+[![Watch the demo](CyberMetrics.gif)](https://app.powerbi.com/view?r=eyJrIjoiMDgyNTA5NmYtOGU3OC00ZTMzLTk2ZGItNDVkYTBhNGFlYTk1IiwidCI6IjMyMWIxNDA4LTIxZjAtNDE0My1hMzkwLTNiNjIwMmU2NWUxZiJ9&pageName=0700ccdab041b1267d16)
 > Click the image above to open the live dashboard!
 
 ---
